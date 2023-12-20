@@ -9,7 +9,7 @@ This script performs a series of database operations to synchronize the rinex_fi
 The script produces:
 
 * the number of to be changed files;
-* 3 SQL script to execute inserts, updates and deletes.
+* 3 SQL scripts to execute inserts, updates and deletes.
 
 ## Installation
 
